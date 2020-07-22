@@ -1,2 +1,1 @@
-# todoubled-primo-site
-Primo.af demo site
+# Built with [primo](https://primo.so)
